@@ -23,6 +23,10 @@ android {
     dataBinding {
         enabled = true
     }
+    compileOptions {
+        sourceCompatibility = '1.8'
+        targetCompatibility = '1.8'
+    }
 }
 
 dependencies {
@@ -64,4 +68,5 @@ dependencies {
      * So we are going to use Picasso
      */
     implementation 'com.squareup.picasso:picasso:2.71828'
+    implementation 'com.an.customfontview:customfont:0.1.0'
 }
