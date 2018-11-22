@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">PagingSample</string>
+    <string name="item_keyed_example">Item Keyed Example</string>
+    <string name="paged_keyed_example">Paged Keyed Example</string>
+    <string name="position_keyed_example">Position Keyed Example</string>
+    <string name="paging_with_room_example">Paging with Room Example</string>
+    <string name="label_activity_paging_with_room">Paging With Room</string>
+    <string name="label_activity_position_keyed">Position keyed example</string>
+    <string name="label_activity_paged_keyed">Paged keyed example</string>
+    <string name="label_activity_item_keyed">Item keyed example</string>
 </resources>
