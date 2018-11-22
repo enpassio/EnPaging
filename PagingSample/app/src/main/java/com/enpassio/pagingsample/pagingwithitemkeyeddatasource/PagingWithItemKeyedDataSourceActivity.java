@@ -1,10 +1,9 @@
 package com.enpassio.pagingsample.pagingwithitemkeyeddatasource;
 
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 
 import com.enpassio.pagingsample.R;
-
-import androidx.appcompat.app.AppCompatActivity;
 
 public class PagingWithItemKeyedDataSourceActivity extends AppCompatActivity {
 
