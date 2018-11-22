@@ -2,6 +2,7 @@ package com.enpassio.pagingsample;
 
 import android.content.Intent;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.Button;
 
@@ -9,8 +10,6 @@ import com.enpassio.pagingsample.pagingwithitemkeyeddatasource.PagingWithItemKey
 import com.enpassio.pagingsample.pagingwithpagekeyeddatasource.PagingWithPageKeyedDataSourceActivity;
 import com.enpassio.pagingsample.pagingwithpositionaldatasource.PagingWithPositionalDataSourceActivity;
 import com.enpassio.pagingsample.pagingwithroom.PagingWithRoomActivity;
-
-import androidx.appcompat.app.AppCompatActivity;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 
