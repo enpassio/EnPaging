@@ -16,6 +16,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".pagingwithroom.PagingWithRoomActivity" />
+        <activity android:name=".pagingwithpositionaldatasource.PagingWithPositionalDataSourceActivity" />
+        <activity android:name=".pagingwithpagekeyeddatasource.PagingWithPageKeyedDataSourceActivity" />
+        <activity android:name=".pagingwithitemkeyeddatasource.PagingWithItemKeyedDataSourceActivity"></activity>
     </application>
 
 </manifest>
