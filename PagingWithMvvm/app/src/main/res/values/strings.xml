@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">PagingWithMvvm</string>
+    <string name="go_to_news_activity">Go to News Activity</string>
+    <string name="label_news_activity">News Activity</string>
 </resources>
