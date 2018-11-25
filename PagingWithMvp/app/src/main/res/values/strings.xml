@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">PagingWithMvp</string>
+    <string name="go_to_paging_with_mvp_example">Go to Paging with MVP example</string>
+    <string name="label_paging_with_mvp_activity">Paging with Mvp</string>
 </resources>
